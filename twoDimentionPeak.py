@@ -14,7 +14,7 @@ def tdpeak(arr):
         return arr[row][midcol]
 
 
-git
+
 def findmax(arr):
     maxv=0
     row=-1
